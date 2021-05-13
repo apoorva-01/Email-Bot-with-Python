@@ -10,7 +10,7 @@ I will create a web application to send mass emails with customization.
 
 Contributors names and contact info
 
-Apoorva Verma
+Apoorva Verma<br>
 [@Linkedin](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
 <br>
 [@Github](https://github.com/apoorva-01)
